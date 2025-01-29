@@ -2,9 +2,9 @@
 
 <html>
   <head>
-    <body>
-    <script>alert('Olá Seja Bem vindo')
-</script> 
+    <body>   
+ 
+
       <p aling center  > Olá! Bye!</p>
   </body
   </head>
