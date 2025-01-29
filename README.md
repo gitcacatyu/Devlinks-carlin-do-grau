@@ -1,1 +1,3 @@
-<pa aling center color black background-color White > Olá!</p>
+<pa aling center  > Olá!</p>
+
+alert('Olá Seja Bem vindo)
