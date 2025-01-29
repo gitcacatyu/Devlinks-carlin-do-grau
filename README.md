@@ -1,4 +1,15 @@
-<pa aling center  > Olá!</p>
 
 
-<script>alert('Olá Seja Bem vindo)</script> 
+<html>
+  <head>
+    <body>
+    <script>alert('Olá Seja Bem vindo')
+</script> 
+      <p aling center  > Olá!</p>
+  </body
+  </head>
+  
+ 
+</html>
+
+
