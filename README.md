@@ -1,1 +1,1 @@
-<pa aling center> Olá!</p>
+<pa aling center color black> Olá!</p>
